@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+a = 0, b = 0, d = 0, bo = 0
+a = 0, b = 1, d = 1, bo = 1
+a = 1, b = 0, d = 1, bo = 0
+a = 1, b = 1, d = 0, bo = 0
+$finish called at time : 40 ns : File "D:/Verilog/HS/HS.srcs/sim_1/new/half_sub_tb.v" Line 67
