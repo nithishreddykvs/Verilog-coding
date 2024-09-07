@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog/Multiplier/Multiplier.srcs/sources_1/new/multiplier_4x3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multiplier_4x3
+INFO: [VRFC 10-311] analyzing module RCA
+INFO: [VRFC 10-311] analyzing module FA
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog/Multiplier/Multiplier.srcs/sim_1/new/multiplier_4x3_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multiplier_4x3_tb

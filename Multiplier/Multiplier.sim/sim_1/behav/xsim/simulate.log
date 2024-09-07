@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+Time	A	B	C
+0	000	0000	0000000
+10000	001	0001	0000001
+20000	010	0010	0000100
+30000	011	0100	0001100
+40000	100	0011	0001100
+50000	101	1111	1001011
+60000	110	0101	0011110
+70000	111	0111	0110001
+$finish called at time : 80 ns : File "D:/Verilog/Multiplier/Multiplier.srcs/sim_1/new/multiplier_4x3_tb.v" Line 55
