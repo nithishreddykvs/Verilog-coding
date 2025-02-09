@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time = 0 | x = 00000001 | y = 000
+Time = 10000 | x = 00000010 | y = 001
+Time = 20000 | x = 00000100 | y = 010
+Time = 30000 | x = 00001000 | y = 011
+Time = 40000 | x = 00010000 | y = 100
+Time = 50000 | x = 00100000 | y = 101
+Time = 60000 | x = 01000000 | y = 110
+Time = 70000 | x = 10000000 | y = 111
+$finish called at time : 80 ns : File "D:/Verilog/Encoder/Encoder.srcs/sim_1/new/E8x3_tb.v" Line 43

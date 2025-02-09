@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog/Encoder/Encoder.srcs/sources_1/new/E8x3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module E8x3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog/Encoder/Encoder.srcs/sim_1/new/E8x3_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module E8x3_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog/Encoder/Encoder.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
