@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Time = 0 | X = 00 | E = 1 | Y = 0001
+Time = 10000 | X = 01 | E = 1 | Y = 0010
+Time = 20000 | X = 10 | E = 1 | Y = 0100
+Time = 30000 | X = 11 | E = 1 | Y = 1000
+$finish called at time : 40 ns : File "D:/Verilog/Decoders/Decoders.srcs/sim_1/new/D2x4_tb.v" Line 39
