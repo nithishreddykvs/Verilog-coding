@@ -1,6 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../Multiplier using IP.ip_user_files/bd/Multiplier/ip/Multiplier_mult_gen_0_0/sim/Multiplier_mult_gen_0_0.vhd" \
-
-# Do not sort compile order
-nosort
