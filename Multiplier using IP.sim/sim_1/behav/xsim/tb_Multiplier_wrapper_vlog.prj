@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Multiplier using IP.ip_user_files/bd/Multiplier/sim/Multiplier.v" \
+"../../../../Multiplier using IP.gen/sources_1/bd/Multiplier/hdl/Multiplier_wrapper.v" \
+"../../../../Multiplier using IP.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
