@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/VLSI lab/Ring Counter/Ring Counter.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+D:/VLSI lab/Ring Counter/Ring Counter.srcs/sim_1/new/tb.v,1744651360,verilog,,,,tb_ring_counter,,,,,,,,
+D:/VLSI lab/Ring Counter/Ring Counter.srcs/sources_1/new/Dff.v,1744651972,verilog,,D:/VLSI lab/Ring Counter/Ring Counter.srcs/sources_1/new/Ring_counter.v,,d_ff,,,,,,,,
+D:/VLSI lab/Ring Counter/Ring Counter.srcs/sources_1/new/Ring_counter.v,1744652361,verilog,,D:/VLSI lab/Ring Counter/Ring Counter.srcs/sim_1/new/tb.v,,ring_counter,,,,,,,,
