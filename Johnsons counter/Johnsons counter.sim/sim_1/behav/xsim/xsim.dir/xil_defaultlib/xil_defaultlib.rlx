@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/VLSI lab/Johnsons counter/Johnsons counter.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+D:/VLSI lab/Johnsons counter/Johnsons counter.srcs/sim_1/new/tb.v,1744652535,verilog,,,,tb_johnson_counter,,,,,,,,
+D:/VLSI lab/Johnsons counter/Johnsons counter.srcs/sources_1/new/Johnsons_counter.v,1744652584,verilog,,D:/VLSI lab/Johnsons counter/Johnsons counter.srcs/sources_1/new/dff.v,,johnson_counter,,,,,,,,
+D:/VLSI lab/Johnsons counter/Johnsons counter.srcs/sources_1/new/dff.v,1744652535,verilog,,D:/VLSI lab/Johnsons counter/Johnsons counter.srcs/sim_1/new/tb.v,,d_ff,,,,,,,,
